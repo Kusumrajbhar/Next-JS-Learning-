@@ -1,0 +1,44 @@
+{
+  "News": [
+    {
+      "title": "sports",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 1
+    },
+    {
+      "title": "Politics",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 2
+    },
+    {
+      "title": "Bollywood",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 3
+    },
+    {
+      "title": "sports",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 4
+    },
+    {
+      "title": "Drama",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 5
+    },
+    {
+      "title": "Action",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 6
+    },
+    {
+      "title": "Bollywood",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 7
+    },
+    {
+      "title": "Drama",
+      "Body": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, and entertainment, as well as athletic events, quirky or unusual events.",
+      "id": 8
+    }
+  ]
+}
